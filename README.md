@@ -12,6 +12,18 @@ https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/
 
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/f733cb66-66c8-42cf-bcea-94b45b1c01f7)
 
+### AI Builder 
+
+生成AIのモデルは GPT-4を利用しています。
+
+以下のようなプロンプトを記述しています。
+
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/df73dba6-550e-4e00-be12-521b2b70a24a)
+
+```
+学習の概要と、概算費用を含む必要な教材のリスト、最初に試験を申し込むなどの注意事項を説明してから、次に1週間毎の目標, タスク, 日本語の教材を含む学習計画を可能な限り詳細に生成してください。前提条件として、資格を取得する人のレベルはLevel であり、資格を取得する期間はTargetDuration であり、取得したい資格はCompetencyNameです。
+```
+
 ### モデル駆動型アプリ
 
 また、その生成した計画を一覧することができます。
