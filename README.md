@@ -4,6 +4,11 @@
 
 https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/91d1cf29-834c-4fe0-80fc-84e3f2ad9fa1
 
+
+* [!Note]
+* ソリューションを利用した感想などはぜひ、ギークのXアカウントまでお寄せください！
+
+
 ## 主要機能のご紹介
 
 ### キャンバスアプリ
@@ -93,6 +98,8 @@ Power Apps Premium ライセンスが必要です。
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/bc1e6b11-5181-41ed-9965-d281200e2913)
 
 インポートを実施します。
+
+以上、ご参考になれば幸いです。
 
 
 
