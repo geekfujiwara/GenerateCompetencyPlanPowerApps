@@ -16,11 +16,17 @@ https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/
 簡単に資格、期間、受験者のレベルを選択するだけで、資格取得計画を生成AIが立案し、資格取得日をOutlookに登録することができます。
 
 #### 計画の立案
+
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/0a588dda-cd0b-4195-9810-998e90be0e68)
 
 #### 立案した計画の保存とOutlook予定表連携
 
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/f733cb66-66c8-42cf-bcea-94b45b1c01f7)
+
+保存するタイミングでOutlookにイベントが登録されます。
+
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/c8ec3866-26e7-428a-a3c5-05e3cc315dfa)
+
 
 ### AI Builder 
 
