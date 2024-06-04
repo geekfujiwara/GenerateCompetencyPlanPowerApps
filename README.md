@@ -15,6 +15,11 @@ https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/
 
 簡単に資格、期間、受験者のレベルを選択するだけで、資格取得計画を生成AIが立案し、資格取得日をOutlookに登録することができます。
 
+#### 計画の立案
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/0a588dda-cd0b-4195-9810-998e90be0e68)
+
+#### 立案した計画の保存とOutlook予定表連携
+
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/f733cb66-66c8-42cf-bcea-94b45b1c01f7)
 
 ### AI Builder 
@@ -98,6 +103,30 @@ Power Apps Premium ライセンスが必要です。
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/bc1e6b11-5181-41ed-9965-d281200e2913)
 
 インポートを実施します。
+
+### データの作成
+
+資格のデータを作成する必要があります。
+
+会社で取得するべき資格の一覧などをExcel Onlineで開く機能などから一括で取り込むとよいでしょう。
+
+モデル駆動型アプリの資格を開きます。
+
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/0baff0fe-2e58-494b-b23e-dfbf3a17c060)
+
+「>」を選択します。
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/01cf8774-a566-47f9-abb7-d2f08d2727a4)
+
+Excel Onlineで開きます。
+
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/aeae12ee-aecd-4177-be53-4aee573b76a9)
+
+こちらから一括で入力することができます。
+
+![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/186ab31e-a1c7-4fff-a4f2-59b30c04a822)
+
+資格マスターを更新後、キャンバスアプリから資格を選択できるようになり、アプリを利用できるようになります。
+
 
 以上、ご参考になれば幸いです。
 
