@@ -5,8 +5,8 @@
 https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/91d1cf29-834c-4fe0-80fc-84e3f2ad9fa1
 
 
-* [!Note]
-* ソリューションを利用した感想などはぜひ、ギークのXアカウントまでお寄せください！
+> [!Note]
+> ソリューションを利用した感想などはぜひ、[ギークのXアカウント](https://x.com/geekfujiwara/status/1797815867021131979)までお寄せください！
 
 
 ## 主要機能のご紹介
